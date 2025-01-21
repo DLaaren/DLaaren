@@ -7,14 +7,12 @@
 **Telegram:** [@DLaaren](https://t.me/DLaaren)  
 **GitHub:** [github.com/DLaaren](https://github.com/DLaaren)  
 
----
 
 ## ⭐️ Education
 **University:** Novosibirsk State University (NSU), 4th year  
 **Major:** "Software Engineering and Computer Science"  
 **GPA:** 4.7  
 
----
 
 ## ⭐️ Skills
 - **Operating Systems:** Linux (command line)  
@@ -26,7 +24,6 @@
 - **Databases:** SQL, PostgreSQL
 - **Containerization:** Docker, Docker Compose  
 
----
 
 ## ⭐️ Experience with:
 - Vue.js  
