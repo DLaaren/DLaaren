@@ -1,7 +1,7 @@
 ### 🍃🍃 ABOUT ME:
 
 ## ⭐️ Vinter Alyona aka D'Laaren
-⭐️ 21 y. o. student from NSU and PGLab
+22 y. o. student from NSU and PGLab
  
 **Email:** [dlaaren8@gmail.com](mailto:dlaaren8@gmail.com)  
 **Telegram:** [@DLaaren](https://t.me/DLaaren)  
@@ -19,17 +19,17 @@
 - **Development Tools:** bash, make, git + GitHub  
 - **Programming Languages:**
   - C
-  - C#
-  - Java Core, JavaFX, Spring Boot
+  - Go
 - **Databases:** SQL, PostgreSQL
 - **Containerization:** Docker, Docker Compose  
 
 
 ## ⭐️ Experience with:
-- Vue.js  
-- Go  
+- Vue.js
 - Python  
-- C++  
+- C++
+- C#
+- Java Core, JavaFX, Spring Boot
 - Perl  
 - RabbitMQ  
 
